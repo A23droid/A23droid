@@ -2,7 +2,7 @@
 
 *Building useful things, learning on the go.*
 
-Hi, I’m Aditya — a curious CSE undergrad who loves solving problems.  
+Hi, I’m Aditya, a curious CSE undergrad who loves solving problems.  
 🛠️ I like breaking things to understand how they work (and maybe fix them later).  
 💡 I build side-projects to explore new ideas and learn by doing.  
 🚀 Always experimenting, failing fast, and figuring things out.  
