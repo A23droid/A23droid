@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hi, I’m Aditya, a curious CSE undergrad who loves solving problems.<br>🛠️ I like breaking things to understand how they work (and maybe fix them later).<br>💡 I build projects to explore new ideas and learn by doing.<br>🚀 Always experimenting, failing fast, and figuring things out.<br>🧠 I care abouwriting code that's useful.<br>🎯Exploring Agentic AI workflows and multi-agent systems.
 
+# 📈 GitHub Metrics
+<img src="./github-metrics.svg" alt="Metrics" width="100%">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aditya-pillai-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pillaiaditya2310@gmail.com) 
