@@ -1,11 +1,5 @@
 <h1 align="center">Aditya Pillai</h1>
 
-<p align="center">
-<code>build.</code>
-<code>break.</code>
-<code>learn.</code>
-<code>repeat.</code>
-</p>
 
 <p align="center">
 Full-stack developer exploring AI systems, scalable applications, and developer tooling.
@@ -44,48 +38,22 @@ Full-stack developer exploring AI systems, scalable applications, and developer 
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui)
 
-### Databases & Tools
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
-
----
-
-## // FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-<h3>ScaffoldAI</h3>
-<p>Socratic AI tutor powered by LangGraph and Groq.</p>
-</td>
-<td width="50%">
-<h3>DevDash</h3>
-<p>Developer memory system for notes, snippets, and learning.</p>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3>Breathe Map</h3>
-<p>Smart-city air quality simulation and visualization platform.</p>
-</td>
-<td width="50%">
-<h3>The LogBook</h3>
-<p>Personal blog and writing platform built with Astro.</p>
-</td>
-</tr>
-</table>
 
 ---
 
