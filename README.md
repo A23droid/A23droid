@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-Full-stack developer passionate about AI systems, scalable applications, and clean code.
+Full-stack developer exploring AI systems, scalable applications, and developer tooling.
 </p>
 
 <p align="center">
 <a href="https://adityapillai.dev">Portfolio</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://linkedin.com/in/aditya-pillai-dev">LinkedIn</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
+&nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:pillaiaditya2310@gmail.com">Email</a>
 </p>
 
@@ -32,7 +32,7 @@ Full-stack developer passionate about AI systems, scalable applications, and cle
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-### Frameworks & Libraries
+### Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js)
@@ -52,6 +52,8 @@ Full-stack developer passionate about AI systems, scalable applications, and cle
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=Prisma)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge\&logo=appwrite)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
@@ -94,27 +96,55 @@ Full-stack developer passionate about AI systems, scalable applications, and cle
 ## // GITHUB METRICS
 
 <p align="center">
-  <img src="./github-metrics.svg" width="80%">
+  <img src="./github-metrics.svg" width="78%">
 </p>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## // COMMIT CALENDAR
 
-<img src="./metrics.plugin.isocalendar.fullyear.svg" width="100%">
+<img src="./metrics.plugin.isocalendar.fullyear.svg">
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## // STARRED TOPICS
 
-<p align="center">
-  <img src="./metrics.plugin.topics.svg" width="85%">
-</p>
+<img src="./metrics.plugin.topics.svg">
+
+</td>
+</tr>
+</table>
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## // CODING HABITS
+
+<img src="./metrics.plugin.habits.svg">
+
+</td>
+
+<td width="50%" valign="top">
+
 ## // LEETCODE
 
+<img src="./metrics.plugin.leetcode.svg">
+
+</td>
+</tr>
+</table>
+
+---
+
 <p align="center">
-  <img src="./metrics.plugin.leetcode.svg" width="70%">
+<img src="https://komarev.com/ghpvc/?username=A23droid&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
 </p>
