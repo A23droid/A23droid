@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.744936234058514 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">240</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.827206801700427 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">241</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3999</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.908045977011493 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">120</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.065613026819925 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">121</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2088</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -87,6 +87,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
+                            <div class="title">Binary Tree Zigzag Level Order Traversal</div>
+                            <div class="date">21 Jul 2026</div>
+                        </div>
+                    </div>
+                    <div class="field">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                        </svg>
+                        <div class="infos">
                             <div class="title">Binary Tree Maximum Path Sum</div>
                             <div class="date">20 Jul 2026</div>
                         </div>
@@ -98,15 +107,6 @@
                         <div class="infos">
                             <div class="title">Same Tree</div>
                             <div class="date">20 Jul 2026</div>
-                        </div>
-                    </div>
-                    <div class="field">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                        </svg>
-                        <div class="infos">
-                            <div class="title">Diameter of Binary Tree</div>
-                            <div class="date">18 Jul 2026</div>
                         </div>
                     </div>
                 </section>
